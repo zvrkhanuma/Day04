@@ -7,7 +7,7 @@ function main(){
     var myDecimalE = 254e-5;
     
     
-    // Only change code abowe this line
+    // Only change code above this line
      return {
          myDecimal,
          myDecimalE
@@ -15,4 +15,4 @@ function main(){
     }
      console.log(main());
     
-     module.export = main
+     module.exports = main;

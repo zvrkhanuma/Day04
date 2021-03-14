@@ -9,16 +9,16 @@ function main(){
     secondNum /= 5;
     thirdNum *= 10;
 
-    // Only change code abowe this line
+    // Only change code above this line
 
     return {
        firstNum,
        secondNum,
-       thirdNum,
+       thirdNum
     };
 }
 
 console.log(main());
 
 
-module.export = main;
+module.exports = main;

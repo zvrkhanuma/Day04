@@ -7,7 +7,7 @@ function main(){
 
     
 
-    // Only change code abowe this line
+    // Only change code above this line
 
     return {
        myFirstName,
@@ -19,4 +19,4 @@ function main(){
 console.log(main());
 
 
-module.export = main;
+module.exports = main;

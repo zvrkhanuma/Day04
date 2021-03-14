@@ -6,9 +6,9 @@ var myRes = 75;
 myRes++;
 
 
-// Only change code abowe this line
+// Only change code above this line
  return myRes;
 }
  console.log(main());
 
- module.export = main
+ module.exports = main;
